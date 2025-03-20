@@ -60,20 +60,3 @@ Welcome to the **SQL Boat Rental Project**! This project demonstrates a database
     JOIN Reserves_T R ON S.SailorID = R.SailorID
     GROUP BY S.SailorName, S.RatePerDay;
     ```
-
----
-
-## 📝 Additional Notes
-
-- Ensure your database management system (e.g., MySQL, PostgreSQL) is installed.
-- Adjust table and column names as needed based on your SQL dialect.
-
----
-
-## 📧 Contact
-
-For questions or contributions, reach out at [your_email@example.com](mailto:your_email@example.com).
-
----
-
-Happy querying! ⚓
