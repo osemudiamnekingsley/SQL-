@@ -34,19 +34,6 @@ Welcome to the **SQL Boat Rental Project**! This project demonstrates a database
 - Track reservation details using a relational database.  
 - Perform SQL queries for insights and reports.
 
----
-
-## 🛠️ Installation
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/sql-boat-rental.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd sql-boat-rental
-    ```
-3. Import the database using your preferred SQL client.
 
 ---
 
